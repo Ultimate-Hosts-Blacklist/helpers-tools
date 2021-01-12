@@ -9,9 +9,9 @@ License:
 
     MIT License
 
-    Copyright (c) 2019 Ultimate-Hosts-Blacklist
-    Copyright (c) 2019 Nissar Chababy
-    Copyright (c) 2019 Mitchell Krog
+    Copyright (c) 2019, 2020, 2021 Ultimate-Hosts-Blacklist
+    Copyright (c) 2019, 2020, 2021 Nissar Chababy
+    Copyright (c) 2019, 2020, 2021 Mitchell Krog
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -42,4 +42,4 @@ from ultimate_hosts_blacklist.helpers.our_process_wrapper import OurProcessWrapp
 from ultimate_hosts_blacklist.helpers.regex import Regex
 from ultimate_hosts_blacklist.helpers.travis_ci import TravisCI
 
-VERSION = "1.20.1"
+VERSION = "1.20.2"
